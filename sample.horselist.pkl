@@ -1,0 +1,11 @@
+(lp0
+(dp1
+S'name'
+p2
+V\u30b5\u30af\u30e9\u30d0\u30af\u30b7\u30f3\u30aa\u30fc
+p3
+sa(dp4
+g2
+V\u30e1\u30b8\u30ed\u30de\u30c3\u30af\u30a4\u30fc\u30f3
+p5
+sa.
